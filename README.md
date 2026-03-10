@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Tri (Tristan) Cao Can 👋 
+### AI Solutions Architect | Biomedical Data Scientist
 
-<!--
-**cantricao/cantricao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between complex clinical requirements and scalable AI architectures. Currently focused on **Agentic AI (LangGraph)** and **Medical LLM Optimization**.
 
-Here are some ideas to get you started:
+- 🔭 **Current Project:** [OmniMed-Agent-OS](link_den_repo) - A zero-hallucination medical analysis framework.
+- 🧬 **Research:** Co-authoring clinical AI research at Translational Research Institute (TRI).
+- ⚡ **Expertise:** LangGraph, Unsloth (4-bit Quantization), PyTorch, MLOps, Genomic Data Pipelines.
+- 🎓 **Education:** Master of Data Analytics (Biomedical Data Science) @ QUT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Tech Stack
+- **AI/ML:** PyTorch, Transformers, LangChain, LangGraph, Scikit-Learn.
+- **Data/Cloud:** PySpark, SQL, Docker, GitHub Actions, Linux/Edge Computing.
+- **Bioinformatics:** Python, R, Genomic Data Analysis.
+
+[LinkedIn](http://www.linkedin.com/in/cao-tri-can) | [Portfolio](https://cumbersome-tachometer-03f.notion.site/Tri-Cao-Can-Data-Scientist-AI-Engineer-2c3db237969c80d285ddd5ce82787369) | [Email](mailto:cantricao@gmail.com)
